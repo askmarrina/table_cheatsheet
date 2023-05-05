@@ -1,0 +1,58 @@
+body {
+  background-color: floralwhite;
+}
+
+h1 {
+  text-align: center;
+  color: firebrick;
+}
+
+h2 {
+  text-align: center;
+  color: firebrick;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 50%;
+  
+  
+}
+
+td, th, tr {
+  text-align: center;
+  border: 1px solid black;
+  padding: 15px;
+  text-align: left;
+}
+
+th {
+  background-color: darksalmon;
+  color: white;
+  text-transform: uppercase;
+}
+
+tr:nth-child(odd) {
+  background-color: mistyrose;
+}
+
+
+
+h5 {
+  text-align: center;
+}
+
+li {
+  color: lightcoral;
+}
+
+
+hr {
+  margin: 90px 0;
+
+}
+
+footer {
+  margin-top: 50px;
+}
